@@ -1,0 +1,4 @@
+YGREBGHZ              encryption with key [[2,4,12],[9,1,6],[7,5,3]] = QMPGVZASJ
+BKDLPUKN              encryption with key [[2,4,12],[9,1,6],[7,5,3]] = ALOKAEKHW
+FSSZULIH              encryption with key [[2,4,12],[9,1,6],[7,5,3]] = MPXCZWIJE
+JFOXRSFQ              encryption with key [[2,4,12],[9,1,6],[7,5,3]] = YOASUOMRC
